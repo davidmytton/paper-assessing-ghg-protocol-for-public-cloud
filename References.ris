@@ -1,0 +1,571 @@
+TY  - BOOK
+PY  - 2010
+DA  - 2010//
+TI  - Cloud Computing and Sustainability: The Environmental Benefits of Moving to the Cloud
+ID  - ref1
+ER  - 
+TY  - BOOK
+PY  - 2006
+DA  - 2006//
+TI  - Amazon Web Services Launches
+ID  - ref2
+ER  - 
+TY  - BOOK
+PY  - 2020
+DA  - 2020//
+TI  - Amazon EC2 Dedicated Hosts
+ID  - ref3
+ER  - 
+TY  - BOOK
+PY  - 2020
+DA  - 2020//
+TI  - Amazon EC2 Instance Pricing
+ID  - ref4
+ER  - 
+TY  - BOOK
+PY  - 2020
+DA  - 2020//
+TI  - AWS & Sustainability
+ID  - ref5
+ER  - 
+TY  - BOOK
+PY  - 2020
+DA  - 2020//
+TI  - Regions, Availability Zones, and Local Zones
+ID  - ref6
+ER  - 
+TY  - JOUR
+AU  - Andrae, A. S.
+AU  - Edler, T.
+PY  - 2015
+DA  - 2015//
+TI  - On global electricity usage of communication technology: trends to 2030
+JO  - Challenges
+VL  - 6
+UR  - https://doi.org/10.3390/challe6010117
+DO  - 10.3390/challe6010117
+ID  - Andrae2015
+ER  - 
+TY  - JOUR
+AU  - Aslan, J.
+AU  - Mayers, K.
+AU  - Koomey, J. G.
+AU  - France, C.
+PY  - 2018
+DA  - 2018//
+TI  - Electricity intensity of internet data transmission: untangling the estimates
+JO  - J Industrial Ecol
+VL  - 22
+UR  - https://doi.org/10.1111/jiec.12630
+DO  - 10.1111/jiec.12630
+ID  - Aslan2018
+ER  - 
+TY  - JOUR
+AU  - Avgerinou, M.
+AU  - Bertoldi, P.
+AU  - Castellazzi, L.
+PY  - 2017
+DA  - 2017//
+TI  - Trends in data Centre energy consumption under the European code of conduct for data Centre energy efficiency
+JO  - Energies
+VL  - 10
+UR  - https://doi.org/10.3390/en10101470
+DO  - 10.3390/en10101470
+ID  - Avgerinou2017
+ER  - 
+TY  - JOUR
+AU  - Bashroush, R.
+PY  - 2018
+DA  - 2018//
+TI  - A comprehensive reasoning framework for hardware refresh in data centers
+JO  - IEEE Transact Sustain Comput
+VL  - 3
+UR  - https://doi.org/10.1109/TSUSC.2018.2795465
+DO  - 10.1109/TSUSC.2018.2795465
+ID  - Bashroush2018
+ER  - 
+TY  - STD
+TI  - Bashroush R, Lawrence A (2020) Beyond PUE: tackling IT’s wasted terawatts. Uptime Institute Available from: https://uptimeinstitute.com/beyond-pue-tackling-it’s-wasted-terawatts [Accessed 11 June 2020]
+UR  - https://uptimeinstitute.com/beyond-pue-tackling-it%E2%80%99s-wasted-terawatts
+ID  - ref11
+ER  - 
+TY  - STD
+TI  - Barr J (2015) Cloud computing, server utilization, & the environment. AWS News Blog Available from: https://aws.amazon.com/blogs/aws/cloud-computing-server-utilization-the-environment/ [Accessed 21 Mar 2020]
+UR  - https://aws.amazon.com/blogs/aws/cloud-computing-server-utilization-the-environment/
+ID  - ref12
+ER  - 
+TY  - JOUR
+AU  - Basmadjian, R.
+PY  - 2019
+DA  - 2019//
+TI  - Flexibility-based energy and demand Management in Data Centers: A case study for cloud computing
+JO  - Energies
+VL  - 12
+UR  - https://doi.org/10.3390/en12173301
+DO  - 10.3390/en12173301
+ID  - Basmadjian2019
+ER  - 
+TY  - JOUR
+AU  - Berl, A.
+AU  - Gelenbe, E.
+AU  - Girolamo, M.
+AU  - Giuliani, G.
+AU  - Meer, H.
+AU  - Dang, M.
+AU  - Pentikousis, K.
+PY  - 2010
+DA  - 2010//
+TI  - Energy-efficient cloud computing
+JO  - Comput J
+VL  - 53
+UR  - https://doi.org/10.1093/comjnl/bxp080
+DO  - 10.1093/comjnl/bxp080
+ID  - Berl2010
+ER  - 
+TY  - STD
+TI  - Berral JL, Goiri Í, Nguyen TD, Gavalda R, Torres J, Bianchini R (2014) Building green cloud services at low cost. In: 2014 IEEE 34th International Conference on Distributed Computing Systems, 30 June-3 July 2014. Madrid, Spain. IEEE:449–460. https://doi.org/10.1109/ICDCS.2014.53
+ID  - ref15
+ER  - 
+TY  - JOUR
+AU  - Brady, G. A.
+AU  - Kapur, N.
+AU  - Summers, J. L.
+AU  - Thompson, H. M.
+PY  - 2013
+DA  - 2013//
+TI  - A case study and critical assessment in calculating power usage effectiveness for a data Centre
+JO  - Energ Conversion Manag
+VL  - 76
+UR  - https://doi.org/10.1016/j.enconman.2013.07.035
+DO  - 10.1016/j.enconman.2013.07.035
+ID  - Brady2013
+ER  - 
+TY  - JOUR
+AU  - Buyya, R.
+AU  - Beloglazov, A.
+AU  - Abawajy, J.
+PY  - 2010
+DA  - 2010//
+TI  - Energy-efficient management of data center resources for cloud computing: a vision, architectural elements, and open challenges
+JO  - arXiv
+VL  - 1006
+ID  - Buyya2010
+ER  - 
+TY  - STD
+TI  - Cisco (2020) Cisco Annual Internet Report (2018–2023) White Paper. Cisco Available from: https://www.cisco.com/c/en/us/solutions/collateral/executive-perspectives/annual-internet-report/white-paper-c11-741490.html [Accessed 21 Mar 2020]
+UR  - https://www.cisco.com/c/en/us/solutions/collateral/executive-perspectives/annual-internet-report/white-paper-c11-741490.html
+ID  - ref18
+ER  - 
+TY  - STD
+TI  - Cook G, Jardim E, Craighill C (eds) (2019) Clicking Clean Virginia The Dirty Energy Powering Data Center Alley. Greenpeace Available from: https://www.greenpeace.org/usa/reports/click-clean-virginia/ [Accessed 21 Mar 2020]
+UR  - https://www.greenpeace.org/usa/reports/click-clean-virginia/
+ID  - ref19
+ER  - 
+TY  - BOOK
+PY  - 2018
+DA  - 2018//
+TI  - Consultation outcome: Streamlined energy and carbon reporting
+ID  - ref20
+ER  - 
+TY  - BOOK
+PY  - 2020
+DA  - 2020//
+TI  - Sustainability in numbers. Facebook
+ID  - ref21
+ER  - 
+TY  - STD
+TI  - Flexera (2019) RightScale 2019 state of the cloud report from Flexera identifies cloud adoption trends. Flexera, Inc Available from: https://www.flexera.com/about-us/press-center/rightscale-2019-state-of-the-cloud-report-from-flexera-identifies-cloud-adoption-trends.html [Accessed 21 Mar 2020]
+UR  - https://www.flexera.com/about-us/press-center/rightscale-2019-state-of-the-cloud-report-from-flexera-identifies-cloud-adoption-trends.html
+ID  - ref22
+ER  - 
+TY  - STD
+TI  - Forrester (2019) Forrester data: cloud security solutions forecast, 2016 to 2021 (global). Forrester Research, Inc. Available from: https://www.tatacommunications.com/wp-content/uploads/2019/02/Forrester-Report.pdf [Accessed 21 Mar 2020]
+UR  - https://www.tatacommunications.com/wp-content/uploads/2019/02/Forrester-Report.pdf
+ID  - ref23
+ER  - 
+TY  - CHAP
+AU  - Gao, Y.
+AU  - Zeng, Z.
+AU  - Liu, X.
+AU  - Kumar, P. R.
+PY  - 2013
+DA  - 2013//
+TI  - The answer is blowing in the wind: analysis of powering internet data centers with wind energy
+BT  - 2013 Proceedings IEEE INFOCOM
+PB  - IEEE
+CY  - Turin
+UR  - https://doi.org/10.1109/INFCOM.2013.6566827
+DO  - 10.1109/INFCOM.2013.6566827
+ID  - Gao2013
+ER  - 
+TY  - CHAP
+AU  - Gelenbe, E.
+PY  - 2012
+DA  - 2012//
+TI  - Energy packet networks: adaptive energy management for the cloud
+BT  - Proceedings of the 2nd International Workshop on Cloud Computing Platforms (CloudCP ‘12)
+PB  - Association for Computing Machinery
+CY  - New York
+UR  - https://doi.org/10.1145/2168697.2168698
+DO  - 10.1145/2168697.2168698
+ID  - Gelenbe2012
+ER  - 
+TY  - BOOK
+PY  - 2015
+DA  - 2015//
+TI  - GHG Protocol Scope 2 Guidance
+ID  - ref26
+ER  - 
+TY  - BOOK
+PY  - 2017
+DA  - 2017//
+TI  - ICT Sector Guidance built on the GHG Protocol Product Life Cycle Accounting and Reporting Standard
+ID  - ref27
+ER  - 
+TY  - STD
+TI  - Google (2019) Environmental report 2019. Google Available from: https://services.google.com/fh/files/misc/google_2019-environmental-report.pdf [Accessed 21 Mar 2020]
+UR  - https://services.google.com/fh/files/misc/google_2019-environmental-report.pdf
+ID  - ref28
+ER  - 
+TY  - BOOK
+PY  - 2020
+DA  - 2020//
+TI  - Data Centers: Efficiency
+ID  - ref29
+ER  - 
+TY  - BOOK
+PY  - 2017
+DA  - 2017//
+TI  - Google Infrastructure Security Design Overview: Hardware Design and Provenance
+ID  - ref30
+ER  - 
+TY  - BOOK
+PY  - 2019
+DA  - 2019//
+TI  - Google Cloud Networking Incident #19009
+ID  - ref31
+ER  - 
+TY  - BOOK
+PY  - 2020
+DA  - 2020//
+TI  - Google Cloud Functions Pricing
+ID  - ref32
+ER  - 
+TY  - BOOK
+PY  - 2020
+DA  - 2020//
+TI  - Block Storage Performance
+ID  - ref33
+ER  - 
+TY  - BOOK
+PY  - 2020
+DA  - 2020//
+TI  - Regions and Zones
+ID  - ref34
+ER  - 
+TY  - BOOK
+PY  - 2020
+DA  - 2020//
+TI  - Live Migration
+ID  - ref35
+ER  - 
+TY  - STD
+TI  - Heslin K (2016) Ignore data center Water consumption at your own peril. Uptime Institute; Weblog Available from: https://journal.uptimeinstitute.com/dont-ignore-water-consumption/ [Accessed 11 Jun 2020]
+UR  - https://journal.uptimeinstitute.com/dont-ignore-water-consumption/
+ID  - ref36
+ER  - 
+TY  - STD
+TI  - Hölzle U (2018) Meeting our match: buying 100 percent renewable energy. The Keyword; Weblog Available from: https://www.blog.google/outreach-initiatives/environment/meeting-our-match-buying-100-percent-renewable-energy/ [Accessed 21 Mar 2020]
+UR  - https://www.blog.google/outreach-initiatives/environment/meeting-our-match-buying-100-percent-renewable-energy/
+ID  - ref37
+ER  - 
+TY  - BOOK
+AU  - Huusko, J.
+AU  - Meer, H.
+AU  - Klingert, S.
+AU  - Somov, A.
+PY  - 2012
+DA  - 2012//
+TI  - Energy efficient data centers
+PB  - Springer
+CY  - Madrid
+UR  - https://doi.org/10.1007/978-3-642-33645-4
+DO  - 10.1007/978-3-642-33645-4
+ID  - Huusko2012
+ER  - 
+TY  - BOOK
+PY  - 2012
+DA  - 2012//
+TI  - ISO/IEC DIS 30134–6 Information technology — Data centres — Key performance indicators — Part 6: Energy Reuse Factor (ERF)
+ID  - ref39
+ER  - 
+TY  - BOOK
+PY  - 2016
+DA  - 2016//
+TI  - ISO/IEC 30134–2:2016 Information technology — Data centres — Key performance indicators — Part 2: Power usage effectiveness (PUE)
+ID  - ref40
+ER  - 
+TY  - BOOK
+PY  - 2018
+DA  - 2018//
+TI  - ISO/IEC 30134–3:2016/AMD 1:2018 Information technology — Data centres — Key performance indicators — Part 3: Renewable energy factor (REF) — Amendment 1
+ID  - ref41
+ER  - 
+TY  - STD
+TI  - Jimenez M, Kwok H (2017) Building express backbone: Facebook’s new long-haul network. In: Facebook Engineering. Weblog Available from: https://engineering.fb.com/data-center-engineering/building-express-backbone-facebook-s-new-long-haul-network/ [Accessed 21 Mar 2020]
+UR  - https://engineering.fb.com/data-center-engineering/building-express-backbone-facebook-s-new-long-haul-network/
+ID  - ref42
+ER  - 
+TY  - JOUR
+AU  - Jones, N.
+PY  - 2018
+DA  - 2018//
+TI  - How to stop data centres from gobbling up the world’s electricity
+JO  - Nature
+VL  - 561
+UR  - https://doi.org/10.1038/d41586-018-06610-y
+DO  - 10.1038/d41586-018-06610-y
+ID  - Jones2018
+ER  - 
+TY  - BOOK
+AU  - Kamiya, G.
+AU  - Kvarnström, O.
+PY  - 2019
+DA  - 2019//
+TI  - Data centres and energy – from global headlines to local headaches?
+ID  - Kamiya2019
+ER  - 
+TY  - STD
+TI  - Lawrence A (2019) Is PUE actually going UP? Uptime Institute. Weblog Available from: https://journal.uptimeinstitute.com/is-pue-actually-going-up/ [Accessed 11 Jun 2020]
+UR  - https://journal.uptimeinstitute.com/is-pue-actually-going-up/
+ID  - ref45
+ER  - 
+TY  - STD
+TI  - Lei N, Masanet E (2020) Statistical analysis for predicting location-specific data center PUE and its improvement potential. Energy 201. https://doi.org/10.1016/j.energy.2020.117556
+ID  - ref46
+ER  - 
+TY  - JOUR
+AU  - Masanet, E.
+AU  - Shehabi, A.
+AU  - Koomey, J.
+PY  - 2013
+DA  - 2013//
+TI  - Characteristics of low-carbon data centres
+JO  - Nat Climate Change
+VL  - 3
+UR  - https://doi.org/10.1038/nclimate1786
+DO  - 10.1038/nclimate1786
+ID  - Masanet2013
+ER  - 
+TY  - BOOK
+AU  - Masanet, E.
+AU  - Shehabi, A.
+AU  - Ramakrishnan, L.
+AU  - Liang, J.
+AU  - Ma, X.
+AU  - Walker, B.
+AU  - Hendrix, V.
+AU  - Mantha, P.
+PY  - 2013
+DA  - 2013//
+TI  - The energy efficiency potential of cloud-based software: A U.S. Case study
+PB  - Lawrence Berkeley National Laboratory
+CY  - Berkeley
+UR  - https://doi.org/10.2172/1171159
+DO  - 10.2172/1171159
+ID  - Masanet2013
+ER  - 
+TY  - JOUR
+AU  - Masanet, E.
+AU  - Shehabi, A.
+AU  - Lei, N.
+AU  - Smith, S.
+AU  - Koomey, J.
+PY  - 2020
+DA  - 2020//
+TI  - Recalibrating global data center energy-use estimates
+JO  - Science
+VL  - 367
+UR  - https://doi.org/10.1126/science.aba3758
+DO  - 10.1126/science.aba3758
+ID  - Masanet2020
+ER  - 
+TY  - STD
+TI  - Metz C (2016) Google’s making its own chips now. In: Time for Intel to freak out. Wired Available from: https://www.wired.com/2016/05/googles-making-chips-now-time-intel-freak/ [Accessed 21 Mar 2020]
+UR  - https://www.wired.com/2016/05/googles-making-chips-now-time-intel-freak/
+ID  - ref50
+ER  - 
+TY  - BOOK
+PY  - 2018
+DA  - 2018//
+TI  - The carbon benefits of cloud computing: A study on the Microsoft Cloud
+ID  - ref51
+ER  - 
+TY  - BOOK
+PY  - 2018
+DA  - 2018//
+TI  - 2018 Data Factsheet: Environmental Indicators
+ID  - ref52
+ER  - 
+TY  - BOOK
+PY  - 2019
+DA  - 2019//
+TI  - What are Availability Zones in Azure?
+ID  - ref53
+ER  - 
+TY  - BOOK
+PY  - 2020
+DA  - 2020//
+TI  - Microsoft Sustainability Calculator
+ID  - ref54
+ER  - 
+TY  - BOOK
+PY  - 2020
+DA  - 2020//
+TI  - Connect the Microsoft Sustainability Calculator
+ID  - ref55
+ER  - 
+TY  - BOOK
+PY  - 2020
+DA  - 2020//
+TI  - Azure global infrastructure
+ID  - ref56
+ER  - 
+TY  - CHAP
+AU  - Patterson, M.
+AU  - Azevedo, D.
+AU  - Belady, C.
+AU  - Pouchet, J.
+PY  - 2011
+DA  - 2011//
+TI  - Water Usage Effectiveness (WUE): A Green Grid Data Center Sustainability Metric
+BT  - The Green Grid. White Paper number: 35
+ID  - Patterson2011
+ER  - 
+TY  - STD
+TI  - Rao N (2016) Bandwidth costs around the World. In: The Cloudflare Blog. Weblog Available from: https://blog.cloudflare.com/bandwidth-costs-around-the-world/ [Accessed 21 Mar 2020]
+UR  - https://blog.cloudflare.com/bandwidth-costs-around-the-world/
+ID  - ref58
+ER  - 
+TY  - STD
+TI  - Sattiraju N (2020) Google data centers’ secret cost: billions of gallons of Water. Bloomberg Green Available from: https://www.bloomberg.com/news/features/2020-04-01/how-much-water-do-google-data-centers-use-billions-of-gallons [Accessed 11 Jun 2020]
+UR  - https://www.bloomberg.com/news/features/2020-04-01/how-much-water-do-google-data-centers-use-billions-of-gallons
+ID  - ref59
+ER  - 
+TY  - BOOK
+AU  - Shehabi, A.
+AU  - Smith, S.
+AU  - Sartor, D.
+AU  - Brown, R.
+AU  - Herrlin, M.
+AU  - Koomey, J.
+AU  - Masanet, E.
+AU  - Horner, N.
+AU  - Azevedo, I.
+AU  - Lintner, W.
+PY  - 2016
+DA  - 2016//
+TI  - United states data center energy usage report
+PB  - Lawrence Berkeley National Laboratory
+CY  - Berkeley
+UR  - https://doi.org/10.2172/1372902
+DO  - 10.2172/1372902
+ID  - Shehabi2016
+ER  - 
+TY  - JOUR
+AU  - Shehabi, A.
+AU  - Smith, S. J.
+AU  - Masanet, E.
+AU  - Koomey, J.
+PY  - 2018
+DA  - 2018//
+TI  - Data center growth in the United States: decoupling the demand for services from electricity use
+JO  - Environ Res Lett
+VL  - 13
+UR  - https://doi.org/10.1088/1748-9326/aaec9c
+DO  - 10.1088/1748-9326/aaec9c
+ID  - Shehabi2018
+ER  - 
+TY  - JOUR
+AU  - Singh, A.
+AU  - Ong, J.
+AU  - Agarwal, A.
+AU  - Anderson, G.
+AU  - Armistead, A.
+AU  - Bannon, R.
+AU  - Boving, S.
+AU  - Desai, G.
+AU  - Felderman, B.
+AU  - Germano, P.
+AU  - Kanagala, A.
+PY  - 2015
+DA  - 2015//
+TI  - Jupiter rising: A decade of clos topologies and centralized control in google’s datacenter network
+JO  - ACM SIGCOMM Comp Commun Rev
+VL  - 45
+UR  - https://doi.org/10.1145/2785956.2787508
+DO  - 10.1145/2785956.2787508
+ID  - Singh2015
+ER  - 
+TY  - STD
+TI  - Spiceworks (2019) 2019 State of IT. Spiceworks Available from: https://www.spiceworks.com/marketing/state-of-it-2019/future-tech/ [Accessed 21 Mar 2020]
+UR  - https://www.spiceworks.com/marketing/state-of-it-2019/future-tech/
+ID  - ref63
+ER  - 
+TY  - STD
+TI  - UNESCO World Water Assessment Programme (2020) The United Nations world water development report 2020: water and climate change. UNESCO, Paris Available from: https://unesdoc.unesco.org/ark:/48223/pf0000372985.locale=en [Accessed 11 Jun 2020]
+UR  - https://unesdoc.unesco.org/ark:/48223/pf0000372985.locale=en
+ID  - ref64
+ER  - 
+TY  - STD
+TI  - Uptime Institute (2019) Annual Data Center Survey Results. Uptime Institute Available from: https://uptimeinstitute.com/resources/asset/2019-data-center-industry-survey [Accessed 21 Mar 2020]
+UR  - https://uptimeinstitute.com/resources/asset/2019-data-center-industry-survey
+ID  - ref65
+ER  - 
+TY  - JOUR
+AU  - Heddeghem, W.
+AU  - Lambert, S.
+AU  - Lannoo, B.
+AU  - Colle, D.
+AU  - Pickavet, M.
+AU  - Demeester, P.
+PY  - 2014
+DA  - 2014//
+TI  - Trends in worldwide ICT electricity consumption from 2007 to 2012
+JO  - Comp Commun
+VL  - 50
+UR  - https://doi.org/10.1016/j.comcom.2014.02.008
+DO  - 10.1016/j.comcom.2014.02.008
+ID  - Heddeghem2014
+ER  - 
+TY  - STD
+TI  - Vaid K (2016) Microsoft reimagines open source cloud hardware. Microsoft Azure Blog: Weblog Available from: https://azure.microsoft.com/en-gb/blog/microsoft-reimagines-open-source-cloud-hardware/ [Accessed 21 Mar 2020]
+UR  - https://azure.microsoft.com/en-gb/blog/microsoft-reimagines-open-source-cloud-hardware/
+ID  - ref67
+ER  - 
+TY  - STD
+TI  - Walshe N (2020) Microsoft sustainability calculator helps enterprises analyze the carbon emissions of their IT infrastructure. Microsoft Azure Blog; Weblog Available from: https://azure.microsoft.com/en-gb/blog/microsoft-sustainability-calculator-helps-enterprises-analyze-the-carbon-emissions-of-their-it-infrastructure/ [Accessed 21 Mar 2020]
+UR  - https://azure.microsoft.com/en-gb/blog/microsoft-sustainability-calculator-helps-enterprises-analyze-the-carbon-emissions-of-their-it-infrastructure/
+ID  - ref68
+ER  - 
+TY  - BOOK
+AU  - Webster, B.
+PY  - 2019
+DA  - 2019//
+TI  - Behind the manifestos: How green is my party? The Times
+ID  - Webster2019
+ER  - 
+TY  - JOUR
+AU  - Whitehead, B.
+AU  - Andrews, D.
+AU  - Shah, A.
+AU  - Maidment, G.
+PY  - 2014
+DA  - 2014//
+TI  - Assessing the environmental impact of data centres part 1: background, energy use and metrics
+JO  - Build Environ
+VL  - 82
+UR  - https://doi.org/10.1016/j.buildenv.2014.08.021
+DO  - 10.1016/j.buildenv.2014.08.021
+ID  - Whitehead2014
+ER  - 
