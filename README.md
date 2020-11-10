@@ -1,4 +1,6 @@
-# [Assessing the suitability of the Greenhouse Gas Protocol for calculation of emissions from public cloud computing workloads](https://doi.org/10.1186/s13677-020-00185-8)
+# Assessing the suitability of the Greenhouse Gas Protocol for calculation of emissions from public cloud computing workloads
+https://doi.org/10.1186/s13677-020-00185-8
+
 ## What is this?
 This is an open access full-text version of the article detailed below. The original source file is included alongside rich and plain text versions. [There is a major problem with the lifespan of references](https://davidmytton.blog/dead-references/), so copies of all citations are also included in their state when originally accessed.
 
